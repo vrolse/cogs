@@ -11,7 +11,7 @@ This is my first attempt to code anything so take it for what it is! Everything 
 * [pyrcon](https://github.com/texnofobix/pyrcon/)
 * [q2admin with lua](https://github.com/m4son/q2admin)
 * lastmatch.lua to use with q2admin to get info from '!last' command.
-* and all imports (might be some that is no needed that I have missed to remove..)
+* and all imports (might be some that is not needed that I have missed to remove..)
 
 ## Usage
 Follow instructions for the bot-template, pyrcon and qstat. Place copy the cog-files, lua and qstat into the correct directories.
